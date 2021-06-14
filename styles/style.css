@@ -33,6 +33,10 @@ body {
     box-shadow: none;
 }
 
+.generate-btn:hover{
+    background-color: #5d6dca;
+}
+
 input[type='text']{
     background-color: #3D4153;
     padding: 10px 0px;
@@ -90,6 +94,15 @@ color: #E0B612;
     background: #495BC3;
     color: #fff;
 }
+
+.submit-btn:hover {
+    background: #5d6dca;
+}
+
+.number:hover, .delete:hover, .clear:hover {
+    background: #5b6f8a;
+}
+
 .notify {
     color: #fff;
     text-align: center;
